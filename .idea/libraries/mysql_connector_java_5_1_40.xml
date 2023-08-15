@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-5.1.40.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20200518.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AbsoluteLayout-RELEASE150.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/LGoodDatePicker-11.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jdatepicker-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
